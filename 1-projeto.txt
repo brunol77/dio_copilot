@@ -1,0 +1,12 @@
+1- Criar conta microsoft vinculado a conta estudante
+Erro: Conta não permitida.
+A partir do endereço de email que você inseriu, parece que sua escola não está em nossa lista de instituições elegíveis gratuitamente Office 365 Education. Verifique seu email ( bvlapa.garavelo@outlook.com ) para garantir que ele tenha sido inserido corretamente.
+
+2. Criar um copilot baseado em um modelo
+Nessa sessão vimos como criar um novo agente baseado num modelo pré-estabelecido
+
+3. Criar um copilot baseado em descrição com IA
+Nessa sessão foi criado um novo agente com as informações para treinar a IA
+
+4.  Criar um copilot em branco
+Nesse vídeo foi realizado a criação de um modelo em branco e nos 3 pontos selecionado o schema dio_dioCopilot
